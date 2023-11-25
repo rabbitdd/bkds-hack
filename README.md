@@ -29,6 +29,4 @@
 - CatBoost
 
 Запуск:
-   ```bash
-   git clone [repository-url]
 
